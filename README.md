@@ -26,7 +26,9 @@
 
 ## Link do deploy
 
-A preencher após o deploy no Render.
+https://varresp-api.onrender.com
+
+No plano gratuito do Render o serviço hiberna após alguns minutos sem uso, e a primeira requisição pode levar cerca de um minuto. Para testar: `/api/saude`, `/api/distritos` e `/api/prioridades?semana=2025-12-22&vagas=3`.
 
 ## O que a API faz
 
