@@ -11,7 +11,7 @@
 | Problema, em uma frase | Como direcionar vistorias semanais dispondo de três vagas e apenas do histórico de pedidos? |
 | Como funciona | A solução agrega as reclamações do SP156, estima o volume e a probabilidade de alta e compara filas de prioridade em dados históricos. |
 | O que cada parte faz | Ciência de Dados: prepara o histórico e estima volume e probabilidade. Banco de Dados: modela distritos, demandas e previsões semanais. Programação Dinâmica: monta o plano de vistorias de várias semanas. Java (este repositório): API REST que guarda esses dados no Oracle e entrega a fila de prioridade da semana. |
-| Link do repositório | A preencher após publicar |
+| Link do repositório | https://github.com/notsapinho/varresp-api |
 | Indicador de impacto | Acertos nas vagas de vistoria e cobertura territorial. No piloto, medir o tempo entre falha confirmada e correção. |
 | ODS conectados | ODS 11, cidades e comunidades sustentáveis, com foco na gestão dos serviços urbanos; ODS 16, instituições eficazes, pela possibilidade de auditar os critérios de priorização. |
 
